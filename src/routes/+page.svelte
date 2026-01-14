@@ -5,4 +5,5 @@
 <div>
   <h3>Features: A</h3>
   <p>Feature A #1 commit</p>
+  <p>Feature A #2 commit</p>
 </div>
