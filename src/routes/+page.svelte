@@ -8,3 +8,7 @@
   <p>Feature A #2 commit</p>
   <p>Feature A #3 commit</p>
 </div>
+<div>
+  <h3>Features: B</h3>
+  <p>Feature B #1 commit</p>
+</div>
